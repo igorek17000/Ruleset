@@ -237,6 +237,8 @@ DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 # > Netflix
 USER-AGENT,Argo*
+DOMAIN,api.fast.com
+DOMAIN,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com

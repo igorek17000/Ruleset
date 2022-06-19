@@ -470,7 +470,10 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 # > Nintendo
-DOMAIN,accounts.nintendo.com
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+IP-CIDR,13.112.35.82/33334
+
 # Streaming Media
 
 # (Live)

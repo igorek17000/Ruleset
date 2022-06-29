@@ -483,13 +483,13 @@ IP-CIDR,35.80.243.95/32,no-resolve
 IP-CIDR,52.32.97.125/32,no-resolve
 IP-CIDR,54.68.113.96/32,no-resolve
 # > Fallguys
-DOMAIN,connect.epicgames.dev
-DOMAIN,gateway.fallguys.oncatapult.com
-DOMAIN,api.epicgames.dev
-DOMAIN,analytics-gateway.fallguys.oncatapult.com
-DOMAIN,connect.ol.epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,fallguys.oncatapult.com
 IP-CIDR,116.213.37.233/32,no-resolve
-IP-CIDR,18.209.109.160,no-resolve
+IP-CIDR,18.209.109.160/32,no-resolve
+IP-CIDR,169.150.222.9/32,no-resolve
+IP-CIDR,3.88.187.166/32,no-resolve
 
 # Streaming Media
 

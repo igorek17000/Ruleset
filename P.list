@@ -497,6 +497,7 @@ IP-CIDR,116.213.37.136/32,no-resolve
 IP-CIDR,185.189.242.47/32,no-resolve
 IP-CIDR,156.59.197.210/32,no-resolve
 IP-CIDR,185.189.242.38/32,no-resolve
+IP-CIDR,212.102.42.65/32,no-resolve
 
 # Streaming Media
 

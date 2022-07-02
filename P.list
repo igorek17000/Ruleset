@@ -483,22 +483,29 @@ IP-CIDR,35.80.243.95/32,no-resolve
 IP-CIDR,52.32.97.125/32,no-resolve
 IP-CIDR,54.68.113.96/32,no-resolve
 # > Fallguys
+DOMAIN,fallguys-assets.gamefuel.info
 DOMAIN,qos.multiplay.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.net
 DOMAIN-SUFFIX,fallguys.oncatapult.com
-IP-CIDR,18.209.109.160/32,no-resolve
-IP-CIDR,169.150.222.9/32,no-resolve
 IP-CIDR,3.88.187.166/32,no-resolve
+IP-CIDR,18.209.109.160/32,no-resolve
 IP-CIDR,44.202.105.72/32,no-resolve
-IP-CIDR,116.213.37.233/32,no-resolve
 IP-CIDR,116.213.37.136/32,no-resolve
 IP-CIDR,116.213.37.214/32,no-resolve
-IP-CIDR,185.189.242.47/32,no-resolve
-IP-CIDR,185.189.242.38/32,no-resolve
-IP-CIDR,185.189.242.120/32,no-resolve
+IP-CIDR,116.213.37.233/32,no-resolve
 IP-CIDR,156.59.197.210/32,no-resolve
+IP-CIDR,156.59.198.30/32,no-resolve
+IP-CIDR,156.59.198.94/32,no-resolve
+IP-CIDR,169.150.222.9/32,no-resolve
+IP-CIDR,172.98.93.26/32,no-resolve
+IP-CIDR,185.189.242.38/32,no-resolve
+IP-CIDR,185.189.242.47/32,no-resolve
+IP-CIDR,185.189.242.120/32,no-resolve
+IP-CIDR,185.189.242.144/32,no-resolve
+IP-CIDR,185.189.242.153/32,no-resolve
+IP-CIDR,198.44.239.157/32,no-resolve
 IP-CIDR,212.102.42.65/32,no-resolve
 
 # Streaming Media
